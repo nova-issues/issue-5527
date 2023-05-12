@@ -14,3 +14,5 @@ Prepare the project:
 Login with the nova user and navigate to the Snowflake Examples resource.
 
 The ID column and the Snowflake ID column should match as they have the same value in the database but they don't match.
+
+![screenshot](https://github.com/nhaynes/nova-issue-5527/blob/main/resources/nova-issue-5527.png?raw=true)
